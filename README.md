@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Diego Kelme </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=C0F7F6&size=25&center=true&vCenter=true&width=600&height=100&lines=Let+me+present+to+you..&hearts;++;Full+Time+Coder+%E2%9C%8C%EF%B8%8F,;Laravel+Artisan+%F0%9F%8F%B0,;Ensiene+Founder++%F0%9F%9A%80,;Active+Learner/Researcher,;Agorist+%F0%9F%8F%B4,;Growing+Mindset+%F0%9F%8C%B1,;Love+To+Learn+New+Stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=C0F7F6&size=25&center=true&vCenter=true&width=600&height=100&lines=Let+me+present+to+you..&hearts;++;Full+Time+Coder+%E2%9C%8C%EF%B8%8F,;Laravel+Artisan+%F0%9F%8F%B0,;Ensiene+Founder++%F0%9F%9A%80,;Active+Learner/Researcher+%F0%9F%91%8A,;Agorist+%F0%9F%8F%B4,;Growing+Mindset+%F0%9F%8C%B1,;Love+To+Learn+New+Stuffs..<3"></a>
 </p>
 
 
@@ -17,8 +17,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- A passionate Self-taught Fullstack Developer
+- Building Ensiene.com at spare time
 - Currently learning Web Development by Self
 - Look my [LinkTree](https://linktr.ee/dikelme)
 - I’m currently open for an Intern or a new job opportunity, this is my [LinkedIn](https://read.cv/0xabdulkhalid)
@@ -44,13 +44,16 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
+   ![Vue.js](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=black)
+   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
 	
 - **Back-End Development**:
 	
-    ![PHP](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Laravel](https://img.shields.io/badge/Laravel%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP%20-%2300A7EA.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 	
 <br>
 	
@@ -62,18 +65,28 @@
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google](https://img.shields.io/badge/Google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
+    ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Laragon](https://img.shields.io/badge/Laragon-%230E83CD?style=for-the-badge&logo=laragon&logoColor=white) 
+    ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white) 
+	
 <br>
-
+	
+- **UI/UX Design**:
+	
+    ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+    ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6?style=for-the-badge&logo=adobexd&logoColor=white) 
+	
+<br>
+	
 - **Extras**:
 
+    ![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 </p>
@@ -146,7 +159,7 @@
 
 <div align='center'>
 
-## <b>There's no shortcut!... Let's build something together✨</b>
+## <b>There's no shortcut... Let's build something together! ✨</b>
 
 </div>
 <br>
