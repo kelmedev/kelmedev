@@ -20,7 +20,7 @@
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
-- Linktree [link](https://linktr.ee/dikelme)
+- Look my [LinkTree](https://linktr.ee/dikelme)
 - I’m currently open for an Intern or a new job opportunity, this is my [LinkedIn](https://read.cv/0xabdulkhalid)
 
 <br><br>
