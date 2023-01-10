@@ -16,7 +16,7 @@
 - Building Ensiene.com at spare time
 - Currently learning Web Development by Self
 - Look my [LinkTree](https://linktr.ee/dikelme)
-- I’m currently open for an Intern or a new job opportunity, this is my [LinkedIn](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is my [LinkedIn](https://www.linkedin.com/in/dikelme/)
 
 <br><br>
 
