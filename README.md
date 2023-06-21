@@ -15,7 +15,7 @@
 - A passionate Self-taught Fullstack Developer
 - Building Ensiene.com at spare time
 - Currently learning Web Development by Self
-- Look my [LinkTree](https://linktr.ee/kelmedev)
+- Look my [LinkTree](https://linktr.ee/kelme.dev)
 - I’m currently open for an Intern or a new job opportunity, this is my [LinkedIn](https://www.linkedin.com/in/kelmedev/)
 
 <br><br>
