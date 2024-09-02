@@ -15,51 +15,40 @@
 
 <br>
 
-Nice to meet you!👋 I am **Diego Kelme**, a passionate web developer on a mission to craft new **scalable**, **user-centered**, and **innovative** business that captivate users from the first impression. 🚀
+Nice to meet you!👋 I’m **Diego Kelme**, a driven web developer on a mission to build **scalable**, **user-centered**, and **innovative** businesses that captivate from the first impression. 🚀
 
-My journey began in brazilian IFAC as a student of programming languages for the web, there I engajed in some study case projects and finally had become a **Lean Startup Enthuasiat**, after a while I teamed with my professor **@vrcvieira** and we ignited a startup together called **@puddypet** that futher participating of [**Sebrae Startups**](sebraestartups.com.br) acceleration program.
+My journey began at IFAC in Brazil, where I studied web programming languages. There, I engaged in several case study projects and became a **Lean Startup Enthusiast**. I teamed up with my professor **@vrcvieira**, and together we launched **@puddypet** — a startup that later participated in the [**Sebrae Startups**](sebraestartups.com.br) acceleration program.
 
-Over time, I discovered that **far beyond the development of websites, my passion has really about documentating new business!** This passion for creation gave me flight, futher represeting [Acre Amazon Rainforest Startup Ecosystem in National Events all over Brazil](https://www.ifac.edu.br/noticias/2024/julho/empresa-incubada-pelo-ifac-faz-exposicao-e-representa-o-acre-em-eventos-de-inovacao) .
+Over time, I realized that my passion extends far beyond web development. What truly drives me is **documenting new businesses**. This passion has taken me far, even representing the [Acre Amazon Rainforest Startup Ecosystem in National Events across Brazil](https://www.ifac.edu.br/noticias/2024/julho/empresa-incubada-pelo-ifac-faz-exposicao-e-representa-o-acre-em-eventos-de-inovacao).
 
-I constantly explore new **technologies** and **frameworks** to innovate and tackle challenges head-on. I improved my web development skills by **building projects** rather than watching hours of boring tutorials.
+I’m constantly exploring new **technologies** and **frameworks** to innovate and tackle challenges head-on. I honed my web development skills by **building projects**, not by watching endless tutorials.
 
-I'm currently studying to establish my carrer as an  **entrepeneur** and **software engineer**, diving deep into the Lean Startup world and emerging web developement technologies. I'm also looking to **collaborate** on developing new **open-source** and **SaaS** projects.
+Currently, I’m focused on establishing my career as an **entrepreneur** and **software engineer**, immersing myself in the Lean Startup world and the latest web development technologies. I’m also eager to **collaborate** on new **open-source** and **SaaS** projects.
 
 <br>
 
 ## 🏆 Goals:
 
-- 🧑‍💻 &nbsp; Gain experience in developing full-stack applications using **React** and **Node.js**.
-
-- 🌐 &nbsp; Acquire more knowledge on business administration and corporate governance and achive KPIs improvements in my existing projects.
-
-- 🚀 &nbsp; Advance in new ventures and outstand my position as **Lean Startup Expert**.
-
-- ⚡ &nbsp; Focus on **web development and user experience design optimization** to deliver excellence in our products.
-
-<br>
+- 🧑‍💻   Master full-stack development with **React** and **Node.js**.
+- 🌐   Deepen my understanding of business administration and corporate governance, driving KPI improvements in my projects.
+- 🚀   Solidify my reputation as a **Lean Startup Expert**.
+- ⚡   Focus on **web development and user experience design** to deliver top-tier products.
 
 ## 🚀 Future Endeavors:
 
-- 🌟 &nbsp; Share my knowledge and experience by teaching and mentoring others in the startup community.
+- 🌟   Share my knowledge by mentoring others in the startup community.
+- 🔒   Dive into DevSecOps to create secure, scalable, and robust applications.
+- 🛠️   Contribute to open-source education initiatives that make life easier for entrepreneurs.
+- 🤝   Actively participate in open-source programs, hackathons, and innovation communities.
 
-- 🔒 &nbsp; Dive deeper into DevSecOps to create safer, scalable & more robust applications.
+## 📈 Achievements:
 
-- 🛠️ &nbsp; Create and contribute to open-source education iniciatives that make entrepeneurs lives easier.
+- 🎉   Successfully participated in the [Acre for Startups](https://ac.agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-impulsiona-startups-locais-com-programa-acre-for-startups/) acceleration program by Sebrae Acre in 2023.
+- 🤝   Provided critical feedback on more than 5 startup projects, helping co-founders document their new businesses.
+- 🏅   Earned a UX Design Professional Certification from Google.
+- 🌟   Attended major entrepreneurship events in Brazil in 2024, including [Gramado Summit](gramadosummit.com.br), [Empreende Brazil](empreendebrazil.com.br), and [Startup Summit](startupsummit.com.br).
 
-- 🤝 &nbsp; Actively participate in more open-source programs, hackathons and innovation communities.
 
-<br>
-
-## 📈 Achievements
-
-- 🎉 &nbsp; Successfully participed of [Acre for Startups](https://ac.agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-impulsiona-startups-locais-com-programa-acre-for-startups/) acceleration program by Sebrae Acre in 2023.
-
-- 🤝 &nbsp; Provided valuable feedback on more than 5 startups projects, helping fellow co-founders document their new business.
-
-- 🏅 &nbsp; Secured UX Design Professional Certification by Google.
-
-- 🌟 &nbsp; Participed in the 2024 major entrepeunership events of Brazil, featuring in [Gramado Summit](gramadosummit.com.br), [Empreende Brazil](empreendebrazil.com.br) and [Startup Summit](startupsummit.com.br).
 
 <br>
 
