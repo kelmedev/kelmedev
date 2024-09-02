@@ -127,12 +127,4 @@ Looking to convert a new business idea design into reality? Feel free to contact
 </details>
 
 <div align="center">
-  
-
-
-<br>
-
-> [!NOTE]  
-> If you have any questions, want to collaborate with me or just pretend to schedule a interview, [reach me now](wa.me/5548991515420). 
-
 <br>
