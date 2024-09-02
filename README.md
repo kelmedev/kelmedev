@@ -46,7 +46,7 @@ Currently, I’m focused on establishing my career as an **entrepreneur** and **
 - 🎉   Successfully participated in the [Acre for Startups](https://ac.agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-impulsiona-startups-locais-com-programa-acre-for-startups/) acceleration program by Sebrae Acre in 2023.
 - 🤝   Provided critical feedback on more than 5 startup projects, helping co-founders document their new businesses.
 - 🏅   Earned a UX Design Professional Certification from Google.
-- 🌟   Attended major entrepreneurship events in Brazil in 2024, including [Gramado Summit](gramadosummit.com.br), [Empreende Brazil](empreendebrazil.com.br), and [Startup Summit](startupsummit.com.br).
+- 🌟   Attended major entrepreneurship events in Brazil in 2024, including [Gramado Summit](https://gramadosummit.com.br), [Empreende Brazil](https://empreendebrazil.com.br), and [Startup Summit](https://startupsummit.com.br).
 
 
 
