@@ -63,9 +63,9 @@ Looking to convert a new business idea design into reality? Feel free to contact
 
 **Let's rock the future!** 
 
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=ProtonMail&logoColor=42FF82)](mailto:kelme.dev@pm.me)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=ProtonMail&logoColor=42FF82)](mailto:contato@kelme.studio)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=42FF82)](https://www.linkedin.com/in/kelme)&nbsp;
-[![Twitter/X](https://img.shields.io/badge/-Twitter%2fX-000000?style=for-the-badge&logo=x&logoColor=42FF82)](https://x.com/kelmedev)&nbsp;
+[![Twitter/X](https://img.shields.io/badge/-Twitter%2fX-000000?style=for-the-badge&logo=x&logoColor=42FF82)](https://x.com/kelmestudio)&nbsp;
 
 </div>
 <br>
